@@ -15,7 +15,7 @@ const Hero = () => {
            <Sidebar isOpen={isOpen} toggle={toggle} />
            <HeroContent>
                <HeroItems>
-                   <HeroH1>Greatest Sushi Ever</HeroH1>
+                   <HeroH1>High Quality Sushi</HeroH1>
                    <HeroP>From the freshest fish</HeroP>
                    <HeroBtn>Place Order</HeroBtn>
                </HeroItems>

@@ -7,8 +7,8 @@ const Sidebar = ({isOpen, toggle}) => {
               <CloseIcon />
           </Icon>
           <SidebarMenu>
-              <SidebarLink to="/">Sushi</SidebarLink>
-              <SidebarLink to="/">Desserts</SidebarLink>
+              <SidebarLink to="">Sushi</SidebarLink>
+              <SidebarLink to="/dessert">Desserts</SidebarLink>
               <SidebarLink to="/">Full Menu</SidebarLink>
           </SidebarMenu>
           <SideBtnWrap>
